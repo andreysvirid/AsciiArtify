@@ -1,4 +1,11 @@
+##
+#
+Відео, яке демонструє як працює додаток ArgoCD
+#
+[![Смотреть видео](https://andreysvirid.github.io/AsciiArtif/preview2.gif)](https://andreysvirid.github.io/AsciiArtify/demo2.mp4)
+
 # Concept: Порівняльний аналіз інструментів для локального Kubernetes
+
 
 ## 1. Вступ
 Стартап **AsciiArtify** планує створити сервіс для перетворення зображень у ASCII-art з використанням Machine Learning.  
