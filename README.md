@@ -2,7 +2,7 @@
 #
 Відео, яке демонструє як працює додаток ArgoCD
 #
-[![Смотреть видео](https://andreysvirid.github.io/AsciiArtif/preview2.gif)](https://andreysvirid.github.io/AsciiArtif/demo2.mp4)
+[![Смотреть видео](https://andreysvirid.github.io/AsciiArtify/preview2.gif)](https://andreysvirid.github.io/AsciiArtify/demo2.mp4)
 
 # Concept: Порівняльний аналіз інструментів для локального Kubernetes
 
